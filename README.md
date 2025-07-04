@@ -70,7 +70,7 @@ Each SQL file includes clear header comments describing its purpose.
 
 ## 📑 Slides
 
-📂 [`/slides/`](./slides/)
+Final Udemy Project.pdf
 
 > Contains the full presentation exported as PDF (one slide per page) for easy viewing.  
 
