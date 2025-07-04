@@ -30,7 +30,7 @@ README.md -> This file
 ---
 
 ## 🗄️ Dataset
-
+https://github.com/SuchoritaDas/Udemy-Course-Analysis-SQL-Case-Study/blob/8448eeb61d51096b67accb4095554367978f6a76/Udemy%20Courses.zip
 - Source: Kaggle Udemy Courses Dataset
 - ~3,672 course records (2011–2017)
 - Fields include:
