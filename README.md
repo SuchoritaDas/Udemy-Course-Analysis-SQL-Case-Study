@@ -49,22 +49,7 @@ README.md -> This file
 - **Advanced SQL**: CTEs, Views, Window Functions, Subqueries
 - **Excel**: Visualization and charting
 - **PowerPoint**: Presentation design
-- **Command Prompt**: Efficient dataset import via `LOAD DATA INFILE`
-
----
-
-## 📜 SQL Scripts
-
-Each SQL file includes clear header comments describing its purpose.
-
-| Script                          | Description                                               |
-|---------------------------------|-----------------------------------------------------------|
-| `01_database_setup.sql`         | Creates Udemy database and courses table                  |
-| `02_revenue_analysis.sql`       | Analyzes subject-wise and level-wise revenue              |
-| `03_free_vs_paid_engagement.sql`| Compares average subscriber engagement for free vs paid   |
-| `04_underpriced_courses.sql`    | Identifies high-demand, low-priced course opportunities   |
-| `05_yearly_trends.sql`          | Tracks publishing trends over time                        |
-| `06_engagement_vs_duration.sql` | Examines engagement patterns based on course duration     |
+- **Command Prompt**: [Efficient dataset import via `LOAD DATA INFILE`](https://github.com/SuchoritaDas/Udemy-Course-Analysis-SQL-Case-Study/blob/19165e61cccad8a5f498e5c9b6835b9170a34c10/SQL_Scripts/Screenshot%20(265).png)
 
 ---
 
