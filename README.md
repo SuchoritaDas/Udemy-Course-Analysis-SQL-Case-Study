@@ -70,7 +70,7 @@ Each SQL file includes clear header comments describing its purpose.
 
 ## 📑 Slides
 
-[Final Udemy Project.pdf]
+[Final Udemy Project.pdf] https://github.com/SuchoritaDas/Udemy-Course-Analysis-SQL-Case-Study/blob/a1e64c4b2d97bfe74377f23ed5ce0ce46e201e70/Final%20Udemy%20Project.pdf
 
 > Contains the full presentation exported as PDF (one slide per page) for easy viewing.  
 
