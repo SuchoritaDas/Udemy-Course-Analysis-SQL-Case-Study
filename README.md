@@ -49,7 +49,7 @@ README.md -> This file
 - **Advanced SQL**: CTEs, Views, Window Functions, Subqueries
 - **Excel**: Visualization and charting
 - **PowerPoint**: Presentation design
-- **Command Prompt**: [Efficient dataset import via `LOAD DATA INFILE`](https://github.com/SuchoritaDas/Udemy-Course-Analysis-SQL-Case-Study/blob/19165e61cccad8a5f498e5c9b6835b9170a34c10/SQL_Scripts/Screenshot%20(265).png)
+- **Command Prompt**: Efficient dataset import via [`LOAD DATA INFILE`](https://github.com/SuchoritaDas/Udemy-Course-Analysis-SQL-Case-Study/blob/19165e61cccad8a5f498e5c9b6835b9170a34c10/SQL_Scripts/Screenshot%20(265).png)
 
 ---
 
