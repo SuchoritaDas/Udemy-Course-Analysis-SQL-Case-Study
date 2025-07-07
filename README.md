@@ -70,7 +70,7 @@ Each SQL file includes clear header comments describing its purpose.
 
 ## 📑 Slides
 
-Final Udemy Project.pdf
+[Final Udemy Project.pdf]
 
 > Contains the full presentation exported as PDF (one slide per page) for easy viewing.  
 
@@ -87,7 +87,7 @@ Final Udemy Project.pdf
 
 ---
 
-## 📌 Recommendations (Personal Voice)
+## 📌 Recommendations 
 
 So, based on this analysis, here’s what I’d personally recommend:
 
@@ -107,7 +107,7 @@ So, based on this analysis, here’s what I’d personally recommend:
    - Help instructors align their course design and pricing with what learners actually want.
    - Foster collaboration between platform and instructors to maximize value.
 
----
+
 
 ## 🎯 Conclusion
 
