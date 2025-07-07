@@ -20,15 +20,6 @@ Deliverables include clear, documented SQL scripts, a presentation in PDF format
 
 ---
 
-## 🗂️ Repository Structure
-/slides/ -> Presentation deck as PDF
-/sql/ -> All SQL scripts with explanations
-/docs/ -> Recommendations and project overview
-README.md -> This file
-
-
----
-
 ## 🗄️ Dataset
 [Udemy Dataset](https://github.com/SuchoritaDas/Udemy-Course-Analysis-SQL-Case-Study/blob/8448eeb61d51096b67accb4095554367978f6a76/Udemy%20Courses.zip)
 - Source: Kaggle Udemy Courses Dataset
